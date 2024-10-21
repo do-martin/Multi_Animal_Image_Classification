@@ -1,0 +1,10 @@
+env
+.env
+images
+images_download/cat/*
+images_download/dog/*
+images_download/horse/*
+images_download/horse_original_name
+models/*
+validation_images/*
+test
